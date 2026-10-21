@@ -32,4 +32,4 @@ body:
     id: logs
     attributes:
       label: Log
-      description: Attach SecondLife.log from the Kiln logs folder (Windows %APPDATA%\Kiln\logs, macOS ~/Library/Application Support/Kiln/logs, Linux ~/.kiln_x64/logs). Remove anything private first.
+      description: Attach SecondLife.log from the Kiln logs folder (Windows %APPDATA%\Kiln\logs, macOS ~/Library/Application Support/Kiln/logs, Linux ~/.kiln/logs). Remove anything private first.
