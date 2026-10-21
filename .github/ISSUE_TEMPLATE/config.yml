@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Second Life account, billing, land or grid problems
+    url: https://support.secondlife.com
+    about: Linden Lab handles these; Kiln can't change them.
+  - name: Support Kiln
+    url: https://kilnviewer.com/support/
+    about: Ways to help keep Kiln going.

@@ -1,0 +1,15 @@
+name: Feature suggestion
+description: Something Kiln should do for creators.
+labels: [suggestion]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like Kiln to do
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What are you making when you need it
+      description: The project or workflow this would help with.
